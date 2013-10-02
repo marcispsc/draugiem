@@ -19,6 +19,8 @@ Install via [pip](http://www.pip-installer.org/)
 Or, if you want the code that is currently on GitHub
 
 	git clone git://github.com/BUHARDI/draugiem.git
+	cd draugiem
+	python setup.py install
 
 Starting Out
 ------------
