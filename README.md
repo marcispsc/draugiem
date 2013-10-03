@@ -16,6 +16,10 @@ Install via [pip](http://www.pip-installer.org/)
 
 	pip install draugiem
 
+or, with [easy_install](http://pypi.python.org/pypi/setuptools)
+
+	easy_install draugiem
+
 Or, if you want the code that is currently on GitHub
 
 	git clone git://github.com/BUHARDI/draugiem.git
