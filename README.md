@@ -14,7 +14,7 @@ Installation
 
 Install via [pip](http://www.pip-installer.org/)
 
-	pip install git+git://github.com/BUHARDI/draugiem.git
+	pip install draugiem
 
 Or, if you want the code that is currently on GitHub
 
